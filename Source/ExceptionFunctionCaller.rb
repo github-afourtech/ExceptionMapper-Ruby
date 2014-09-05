@@ -14,7 +14,7 @@ class Programme
    objMapping = Mapper.new
    objExceptionInfo=ExceptionInfo.new
    # Pass the user defined path of XML file
-   $set_filepath="D:\\Sudhir\\Working Directory\\Eclips Project\\XML\\ExceptionMapping.xml"
+   #$set_filepath="D:\\Sudhir\\Working Directory\\Eclips Project\\XML\\ExceptionMapping.xml"
       
    
    # Here it throws an ZeroDivisionError            
